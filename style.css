@@ -1,0 +1,88 @@
+h1{
+    text-align: center;
+    background-color: rgb(230, 230, 93);
+    padding: 10px;
+}
+td{
+    padding: 0.5cm;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.peach-with-red{
+background-color: rgb(230, 163, 105);
+color: red;
+
+}
+.unknown{
+    border: 1px solid white;
+}
+.red{
+    color: red;
+}
+.light-blue{
+    background-color: aqua;
+    color: red;
+}
+.peach-with-black{
+    background-color: rgb(230, 163, 105);
+}
+.light-peach-with-red{
+    background-color: peachpuff;
+}
+.light-peach-with-blue{
+    background-color: peachpuff;
+    color: blue;
+}
+.light-peach-with-black{
+    background-color: peachpuff;
+    color: black;
+}
+.normal-peach-with-black{
+    background-color: rgb(240, 193, 151);
+    color: black;
+}
+.normal-peach-with-blue{
+    background-color: rgb(240, 193, 151);
+    color: blue;
+}
+.brown{
+    background-color: rgb(184, 106, 106);
+    color: black;
+}
+.yellow{
+    background-color: rgb(241, 241, 114);
+}
+.yellow-with-red{
+    background-color: rgb(241, 241, 114);
+    color: red;
+}
+.yellow-with-blue{
+    background-color: rgb(241, 241, 114);
+    color: blue;
+}
+.purple{
+    background-color: rgb(239, 72, 239);
+}
+.purple-with-blue{
+    background-color: rgb(239, 72, 239);
+    color: blue;
+}
+.blue{
+    background-color: rgb(113, 113, 250);
+    color: black;
+}
+.light-gray{
+    background-color: lightgray;
+}
+.dark-gray{
+    background-color: rgb(182, 181, 181);
+}
+.dark-gray-with-red{
+    background-color: rgb(182, 181, 181);
+    color: red;
+}
+table{
+    border: 3px solid black;
+    padding: 0.5cm;
+    border-radius: 8px;
+}
